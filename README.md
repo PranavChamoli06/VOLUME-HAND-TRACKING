@@ -22,3 +22,5 @@ You can install the required packages using pip:
 ```bash
 pip install opencv-python mediapipe
 
+License
+This project is licensed under the MIT License. See the LICENSE file for more information.
