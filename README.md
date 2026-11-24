@@ -340,8 +340,6 @@ The application displays:
 
 # 📸 Screenshots
 
-*Add screenshots of your running application below.*
-
 ### Live Hand Tracking
 
 ![Hand Tracking](assets/hand-tracking.png)
