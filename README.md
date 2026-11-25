@@ -338,18 +338,6 @@ The application displays:
 
 ---
 
-# 📸 Screenshots
-
-### Live Hand Tracking
-
-![Hand Tracking](assets/hand-tracking.png)
-
-### Gesture-Based Volume Control
-
-![Volume Control](assets/volume-control.png)
-
----
-
 # ⚠️ Important Notes
 
 - The application currently targets Windows because it uses PyCaw for audio control.
